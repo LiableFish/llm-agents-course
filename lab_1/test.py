@@ -1,7 +1,7 @@
 import sys, os
 import re
 import json
-from restaurant_reviews.main import main 
+from main import main 
 from typing import List
 
 class TerminalColors:
